@@ -72,7 +72,7 @@ When you’re done, scroll down to the `Commit changes` section near the bottom 
 
 
 <img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
+: c
 Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
 
 :tada: You just made your first commit! :tada:
@@ -88,3 +88,6 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 ## Everything you need to know about GitHub
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+
+I love :coffee: :music:
+
